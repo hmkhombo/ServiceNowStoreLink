@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_14837_servicenow.claim_user" name="x_14837_servicenow.claim_user">3481023a0f54db00720609ece1050eaf</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-19 07:09:49</sys_created_on>
+        <sys_id>fc81023a0f54db00720609ece1050eb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3481023a0f54db00720609ece1050eaf</sys_name>
+        <sys_package display_value="ServiceNowStore" source="x_14837_servicenow">b3508a360f14db00720609ece1050ebc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNowStore">b3508a360f14db00720609ece1050ebc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fc81023a0f54db00720609ece1050eb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-19 07:09:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
